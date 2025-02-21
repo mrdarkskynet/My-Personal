@@ -1,1 +1,1 @@
-hysteria2://4e9ee29b39a28277@66.135.11.68:443?security=tls&obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqqozy6hgvqxwfmfs%20vgvs6c7kjnrubuh.cc#DarkBDTunnel
+hysteria2://d839f04d-3879-46f5-82fa-feb8b4162f9f@ca11.bethebest.eu.org:30102?security=tls&insecure=1&sni=du.wish.ml#%F0%9F%90%B890%40mrdarkvipx
